@@ -34,6 +34,7 @@ community actively   participates in them. The official teams are not
 sufficiently diverse to establish   meaningful community consensus by agreeing
 amongst themselves.
 
+
 * If there are *tons* of RFCs -- especially trivial ones -- people are less
 likely to engage with them. Official team members are super busy. Domain experts
 and industry professionals are super busy *and* have no responsibility to engage
